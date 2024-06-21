@@ -4,3 +4,8 @@ Scripts and pipelines for the manuscript:
 Joana Marques1*, Sofia G. Seabra1, Joana Gomes1, Ana Catarina Alves1, Henrique Silveira1*
 1 Global Health and Tropical Medicine, GHTM, Associate Laboratory in Translation and Inno-vation Towards Global Health, LA-REAL, Instituto de Higiene e Medicina Tropical, Universi-dade Nova de Lisboa, IHMT-NOVA, Rua da Junqueira 100, 1349-008 Lisboa, Portugal.
 *Corresponding authors
+
+
+R_script_Anopheles_lab_experiments.R
+
+R_script_Anopheles_microbiome_analysis.R
